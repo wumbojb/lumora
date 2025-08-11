@@ -109,24 +109,12 @@ favicons:
 # List of social links to be shown in the header/footer
 # Icons are based on Bootstrap Icons – see https://icons.getbootstrap.com/
 social:
-  - name: Instagram
-    url: https://www.instagram.com/user/
-    icon: instagram
-
-  - name: Twitter X
-    url: https://x.com/user
-    icon: twitter-x
-
-  - name: Facebook
-    url: https://facebook.com/user
-    icon: facebook
-
   - name: Discord
     url: https://discord.gg/nM4EP8DJFZ
     icon: discord
 
   - name: GitHub
-    url: https://github.com/user/
+    url: https://github.com/masputrawae/lumora/
     icon: github
 
 #===================
