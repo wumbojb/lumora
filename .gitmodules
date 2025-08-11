@@ -1,0 +1,3 @@
+[submodule "themes/lumora"]
+	path = themes/lumora
+	url = https://github.com/masputrawae/lumora
